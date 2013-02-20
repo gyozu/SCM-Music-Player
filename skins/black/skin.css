@@ -1,4 +1,4 @@
-#player,#player a{ color:#fff; }
+#player,#player a{ color:#181818; }
 #player{ background:url(sizerAndVol.png); background-position:bottom; }
 #player .mainImage{ background:url(main.png); }
 
@@ -15,16 +15,16 @@
 #player #list{ right:0px; }
 
 #player #seeker{ right:320px; }
-#player #seekerBase{ border-color:#ccc;  }
-#player #seekerBuffered{ background-color:#4b575d; }
-#player #seekerSliderBase{ background-color:#ccc; }
+#player #seekerBase{ border-color:#181818;  }
+#player #seekerBuffered{ background-color:#181818; }
+#player #seekerSliderBase{ background-color:#181818; }
 
 #player #volume{ width:65px; right:39px; }
 #player #volumeSlider{ width:8px; background:url(sizerAndVol.png); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#333;}
-#playlist .module{  color:#333; background-color:#eee; }
-#playlist h3{ background:url(bar.jpg); color:#fff; background-color:#333;  }
-#playlist .even{background-color:#eee;}
-#playlist .odd{ background-color:#ddd;}
-#playlist .focus{ background-color:#666; color:#FFF;}
+#playlist,#playlist .module,#playlist h3{ border-color:#181818;}
+#playlist .module{  color:#181818; background-color:#181818; }
+#playlist h3{ background:url(bar.jpg); color:#181818; background-color:#181818;  }
+#playlist .even{background-color:#181818;}
+#playlist .odd{ background-color:#181818;}
+#playlist .focus{ background-color:#181818; color:#181818;}
